@@ -1,0 +1,15 @@
+.title{
+  margin-top: 10%;
+  margin-bottom: 12%;
+  text-align: center;
+  font-family: 'Asap', sans-serif;
+  font-size: 5em;
+}
+.video-area img,
+.single-portfolio-img img {
+	transition: 0.9s;
+}
+.video-area:hover img,
+.single-portfolio:hover img {
+	transform: scale(1.2);
+}
